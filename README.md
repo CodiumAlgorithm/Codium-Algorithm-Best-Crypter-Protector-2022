@@ -1,2 +1,62 @@
 # Codium-Algorithm-Best-Crypter-Protector-2022
 Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscations
+
+
+**##TaskSch Startup
+##Hide File From System // Show Hidden Items Not Works..
+##Delay+Avast
+##InjectionTypes**
+
+
+
+**CONTACT US : https://t.me/CodiumTeam**
+
+
+
+
+
+**LOGIN PAGE :**
+
+
+![1](https://user-images.githubusercontent.com/86024483/170147911-2ad9eb76-795a-46a2-9fe5-c1713ce59954.png)
+
+
+**CRYPT OPTIONS PAGE :**
+
+
+![2](https://user-images.githubusercontent.com/86024483/170147923-495109e4-e85b-4f2c-a004-cffa35505dfd.png)
+
+
+
+**ANTI-MEMORY PAGE :**
+
+
+![4](https://user-images.githubusercontent.com/86024483/170147950-de6c5da2-6867-4738-b46a-64c7e1dd9797.png)
+
+
+**RANDOMIZATION PAGE :**
+
+![5](https://user-images.githubusercontent.com/86024483/170147970-5584af47-6d37-4729-9943-cef010159052.png)
+
+
+**PUMPER PAGE :**
+
+
+
+![6](https://user-images.githubusercontent.com/86024483/170147989-a531d978-a794-4777-bbdf-7f719ed695ac.png)
+
+
+**BINDER PAGE :**
+
+
+![7](https://user-images.githubusercontent.com/86024483/170148025-28c1c34d-a598-46cc-b698-0337b3337c36.png)
+
+
+**BUILD PAGE :**
+
+
+![8](https://user-images.githubusercontent.com/86024483/170148033-cb7c0eb1-c8f2-41d1-84a1-1d47a794b3b9.png)
+
+
+
+
