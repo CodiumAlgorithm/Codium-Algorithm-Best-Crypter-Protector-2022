@@ -3,7 +3,7 @@ Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscatio
 
 
 **##TaskSch Startup
-##Hide File From System // Show Hidden Items Not Works..
+##Hide File From System
 ##Delay+Avast
 ##InjectionTypes**
 
