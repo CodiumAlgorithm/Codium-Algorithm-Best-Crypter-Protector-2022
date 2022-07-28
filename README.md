@@ -8,7 +8,6 @@ Pumper, Binder, Anti-Memory, Anti ESET Exploit, Randomizer, 3 Type Of Obfuscatio
 ##InjectionTypes**
 
 
-**Website : https://codiumsecurity.com/**
 
 
 **CONTACT US : https://t.me/CodiumTeam**
